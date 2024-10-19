@@ -6,4 +6,4 @@ This repository holds the presentation.
 
 > Further Note
 
-A research 
+A research paper will NOT be present here, however, specific parts of the research may be deeply explained
